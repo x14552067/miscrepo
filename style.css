@@ -1,6 +1,6 @@
-/* Comment */
-body{ background-color:gray;
-
-font-family:Helvetica;
-color:pink;
+body{
+background-image: url('triangular.png');
+	background-color:gray;
+	font-family:Helvetica;
+	color:pink; 
 }
